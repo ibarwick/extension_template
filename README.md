@@ -10,5 +10,5 @@ installation of a single, useless function.
 Useful links:
 -------------
 
-http://www.postgresql.org/docs/current/static/extend-extensions.html
-http://www.postgresql.org/docs/current/static/extend-pgxs.html
+* http://www.postgresql.org/docs/current/static/extend-extensions.html
+* http://www.postgresql.org/docs/current/static/extend-pgxs.html
