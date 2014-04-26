@@ -1,0 +1,5 @@
+# extension_template
+comment = 'Template files to create an extension'
+default_version = '0.1'
+module_pathname = '$libdir/extension_template'
+relocatable = true
