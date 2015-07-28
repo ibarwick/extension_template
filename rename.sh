@@ -23,7 +23,7 @@ FILES=(
 )
 
 for FILE in ${FILES[@]}; do
-  sed -i "s/extension_template/$NEW_NAME/" $FILE
+  sed -i "s/extension_template/$NEW_NAME/g" $FILE
 done
 
 # Rename files as appropriate
