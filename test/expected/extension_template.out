@@ -1,0 +1,9 @@
+/*
+ * Regression test for extension_template
+ */
+SELECT * FROM function_template();
+ function_template 
+-------------------
+ 
+(1 row)
+
