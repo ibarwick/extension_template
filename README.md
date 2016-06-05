@@ -15,7 +15,7 @@ use the supplied script thusly:
 
     ./rename.sh new_extension_name
 
-This will convert occurrences of the original exension name in the relevant
+This will convert occurrences of the original extension name in the relevant
 source files, then rename the files appropriately. No checks are performed
 on the validity of the name.
 
