@@ -23,5 +23,5 @@ on the validity of the name.
 Useful links:
 -------------
 
-* http://www.postgresql.org/docs/current/static/extend-extensions.html
-* http://www.postgresql.org/docs/current/static/extend-pgxs.html
+* https://www.postgresql.org/docs/current/extend-extensions.html
+* https://www.postgresql.org/docs/current/extend-pgxs.html
