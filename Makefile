@@ -1,5 +1,5 @@
 # See:
-#   http://www.postgresql.org/docs/current/interactive/extend-pgxs.html
+#   https://www.postgresql.org/docs/current/extend-pgxs.html
 # for all variables
 
 EXTENSION   = extension_template
